@@ -1,6 +1,6 @@
 # Backend Project with Node.js, Drizzle ORM, MySQL, and MongoDB
 
-![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)
+![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/128px-Node.js_logo.svg.png)
 ![Drizzle ORM Logo](https://raw.githubusercontent.com/saikatharryc/drizzle-orm/master/logo.png)
 ![MySQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
 ![MongoDB Logo](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
@@ -28,6 +28,7 @@ Make sure you have the following installed:
 ## Installation
 
 1. Clone the repository:
+
 
 
 2. Install dependencies:
